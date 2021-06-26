@@ -1,0 +1,24 @@
+.App{
+    background: url(./assets/image/back.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 105vh;
+}
+.box-container{
+    padding: 10px;
+    background-color: aliceblue;
+    justify-content: center;
+    margin: 10px 0;
+}
+.img-container{
+    height: 200px;
+    width: 400px;
+    border-radius: 10px;
+}
+.inside-box{
+    padding: 5px;
+    background-color: #e9dce3;
+    margin: 5px;
+    border-radius: 10px;
+}
